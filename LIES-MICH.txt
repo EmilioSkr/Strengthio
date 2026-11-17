@@ -1,0 +1,14 @@
+Gym Tracker (PWA) - Anleitung
+
+1. Kostenloses Konto auf github.com anlegen.
+2. Neues Repository erstellen (Name z. B. "gym", Public).
+3. "uploading an existing file" -> ALLE Dateien aus diesem Ordner hineinziehen
+   (index.html, sw.js, manifest.webmanifest, 3x icon-*.png) -> "Commit changes".
+4. Settings -> Pages -> Source: "Deploy from a branch" -> Branch "main", Ordner "/ (root)" -> Save.
+5. Nach 1-2 Minuten ist die App erreichbar unter:
+   https://DEIN-NAME.github.io/gym/
+6. Diese Adresse im SAFARI auf dem iPhone öffnen (nicht in einem anderen Browser!).
+7. Teilen-Symbol -> "Zum Home-Bildschirm" -> Hinzufügen.
+8. App einmal vom Home-Bildschirm starten (mit Internet). Danach läuft sie komplett offline.
+
+Wichtig: Die App nicht vom Home-Bildschirm löschen - dabei werden auch die gespeicherten Daten entfernt.
